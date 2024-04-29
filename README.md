@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @esprice
+- 👋 Hi, I’m @esprice - Elizabeth
 - 👀 I’m interested in ... programming and AI
 - 🌱 I’m currently learning ... Python, React, C++, and Java
 - 💞️ I’m looking to collaborate on ... AI projects
